@@ -63,9 +63,15 @@ Fedora 29 package is WIP.
      
 ### Arch Linux
 
-You can install Green recorder using your [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers):
+You can install Green Recorder using your [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers):
 
     yaourt -S green-recorder-git
+    
+### Snapd
+
+Green Recorder is available as a [Snap package](https://snapcraft.io/green-recorder)
+
+    sudo snap install green-recorder
 
 ### Other Distributions
 
